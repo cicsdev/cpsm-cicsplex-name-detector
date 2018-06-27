@@ -121,7 +121,7 @@
 
       *
       * CICSRGN Resource Table (taken from the SEYUCOB
-      * library at 5.4. This would typically be pull in as a
+      * library at 5.4. This would typically be pulled in as a
       * COPY book but is shown here for completeness).
       *
 
