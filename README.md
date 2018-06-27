@@ -14,6 +14,6 @@ source code (to change the CICSplex name) when moving the code around between Pr
 and vice versa. This issue is compounded at sites where a multitude of different CICSplexes are in use.
 
 ### Usage:
-The program sniffs out the CICSplex name and returns it in the variable WS-SAVED-CICSPLEXNAME. The program can 
+The program sniffs out the CICSplex name and returns it in the variable `WS-SAVED-CICSPLEXNAME`. The program can 
 be used standalone or you can extend it, adding in your own application code, after the following comment:
 > At this point the API program is connected to the correct CICSPLEX and is able to utilise the full CPSM API, you would code the rest of the program at this point.
