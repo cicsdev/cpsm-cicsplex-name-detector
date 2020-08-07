@@ -4,7 +4,7 @@ The CICSPlex Name Detector Sample program is written in `COBOL` utilising the `C
 
 ### Purpose:
 This is a sample program called SM540API. This program is best used in conjunction with the [accompanying 
-blog post](https://developer.ibm.com/cics/2018/06/27/cicsplex-name-detector/) on the CICS Developer Center. 
+blog post](https://community.ibm.com/ibmz-and-linuxone/blogs/jonathan-collett1/2020/08/07/cicsplex-name-detector/) on the IBM Community CICS group. 
 
 The program demonstrates a way of detecting the CICSplex in use in the CICS region where the program is executed. 
 This can be very useful because it negates the need to know what the CICSplex is called. It means that the days of 
